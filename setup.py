@@ -5,9 +5,9 @@ from setuptools import setup
 
 
 #VERSION should be defined before importing UploadCommand
-VERSION = '0.0.1b0'
+VERSION = '0.0.1b1'
 from alexber.utils import UploadCommand
-NAME = 'scrapy-feedstreaming'
+NAME = 'scrapy-state'
 SHORT_NAME = 'spiderstate'
 VCS_URL = 'https://github.com/alex-ber/scrapy-spiderstate'
 DESCRIPTION = 'TBD'
