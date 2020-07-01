@@ -6,7 +6,10 @@ All notable changes to this project will be documented in this file.
 ## [Unrelased]
  
 
-## [0.0.1] - TBD
+## [0.0.1] - 01/07/2020
+### Added 
+
+
 <!--
 ### Added 
 ### Changed

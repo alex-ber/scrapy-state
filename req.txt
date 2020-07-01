@@ -1,3 +1,1 @@
-Scrapy>=2.1.0
-alex-ber-utils>=0.5.2
-PyYAML==5.1
+Scrapy

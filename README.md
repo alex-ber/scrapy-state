@@ -42,6 +42,9 @@ python3 -m pip install .[tests] # installs dependencies for tests
 
 #### Alternatively you install install from requirements file:
 ```bash
+python3 -m pip install -r req.txt # only installs "required" (relaxed)
+```
+```bash
 python3 -m pip install -r requirements.txt # only installs "required"
 ```
 ```bash
