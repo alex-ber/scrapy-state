@@ -1,4 +1,4 @@
-## scrapy-feedstreaming
+## scrapy-state
 
 See CHANGELOG.md for detail description.
 
