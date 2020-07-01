@@ -1,5 +1,8 @@
 ## scrapy-state
 
+Scrapy state between job runs. Recreating spider's state from settings
+See https://medium.com/@alex_ber/scrapy-state-between-job-runs-b880c7b34a9d
+
 See CHANGELOG.md for detail description.
 
 

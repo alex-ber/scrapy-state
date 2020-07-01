@@ -5,12 +5,12 @@ from setuptools import setup
 
 
 #VERSION should be defined before importing UploadCommand
-VERSION = '0.0.1rc2'
+VERSION = '0.0.1rc3'
 from alexber.utils import UploadCommand
 NAME = 'scrapy-state'
 SHORT_NAME = 'spiderstate'
-VCS_URL = 'https://github.com/alex-ber/scrapy-spiderstate'
-DESCRIPTION = 'TBD'
+VCS_URL = 'https://github.com/alex-ber/scrapy-state'
+DESCRIPTION = 'Scrapy state between job runs'
 AUTHOR = 'Alexander Berkovich'
 
 
