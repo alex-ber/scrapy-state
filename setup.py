@@ -5,7 +5,7 @@ from setuptools import setup
 
 
 #VERSION should be defined before importing UploadCommand
-VERSION = '0.0.1rc3'
+VERSION = '0.0.1'
 from alexber.utils import UploadCommand
 NAME = 'scrapy-state'
 SHORT_NAME = 'spiderstate'
